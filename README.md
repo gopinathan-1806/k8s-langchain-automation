@@ -55,7 +55,8 @@ The project is designed to provide hands-on learning with:
 
 ## Process work flow
 
-<img width="1672" height="941" alt="K8s AI Doctor flowchart" src="https://github.com/user-attachments/assets/cc7c94d0-dfca-45a2-bcab-a65387f750ec" />
+<img width="1672" height="941" alt="K8s AI Doctor flowchart" src="https://github.com/user-attachments/assets/7e6c83a8-0c83-4857-bb90-56199e343deb" />
+
 
 ## Architecture
 
