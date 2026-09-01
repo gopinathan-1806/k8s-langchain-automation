@@ -686,6 +686,11 @@ http://localhost:8501
   Observability   LangSmith
   Mode            Read-only diagnostics
 
+## Process work flow
+
+<img width="1672" height="941" alt="K8s AI Doctor flowchart" src="https://github.com/user-attachments/assets/cc7c94d0-dfca-45a2-bcab-a65387f750ec" />
+
+
 ## ⭐ Final Summary
 
 ``` text
@@ -714,8 +719,15 @@ diagnosis** and provides a foundation for future capabilities such as
 agents, RAG, tool calling, metrics analysis, MCP, and automated
 remediation.
 
-<img width="703" height="515" alt="Screenshot 2026-09-01 at 4 31 31 PM" src="https://github.com/user-attachments/assets/8408a5aa-917b-4032-a462-2eaebd988466" />
 <img width="1494" height="735" alt="Screenshot 2026-09-01 at 4 31 00 PM" src="https://github.com/user-attachments/assets/235dae79-586c-453c-bcfa-82383fdcc52a" />
+
+### Checks the root cause analysis
+
+<img width="985" height="577" alt="Screenshot 2026-09-01 at 7 35 47 PM" src="https://github.com/user-attachments/assets/a30a8fa1-ab00-490f-8d52-8ede737d99fa" />
+
+## Possible solution
+<img width="954" height="628" alt="Screenshot 2026-09-01 at 7 35 36 PM" src="https://github.com/user-attachments/assets/d9408165-d062-4f64-816b-3c3f7a1f72dc" />
+
 
 ## LangSmith Monitoring 
 End to end LLM operations are being monitored & logged using LangSmith
