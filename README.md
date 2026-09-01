@@ -53,6 +53,10 @@ The project is designed to provide hands-on learning with:
 -   Streamlit application development
 -   AI-assisted DevOps/SRE workflows
 
+## Process work flow
+
+<img width="1672" height="941" alt="K8s AI Doctor flowchart" src="https://github.com/user-attachments/assets/cc7c94d0-dfca-45a2-bcab-a65387f750ec" />
+
 ## Architecture
 
 ``` text
@@ -686,11 +690,6 @@ http://localhost:8501
   Observability   LangSmith
   Mode            Read-only diagnostics
 
-## Process work flow
-
-<img width="1672" height="941" alt="K8s AI Doctor flowchart" src="https://github.com/user-attachments/assets/cc7c94d0-dfca-45a2-bcab-a65387f750ec" />
-
-
 ## ⭐ Final Summary
 
 ``` text
@@ -723,10 +722,11 @@ remediation.
 
 ### Checks the root cause analysis
 
-<img width="985" height="577" alt="Screenshot 2026-09-01 at 7 35 47 PM" src="https://github.com/user-attachments/assets/a30a8fa1-ab00-490f-8d52-8ede737d99fa" />
+<img width="954" height="628" alt="Screenshot 2026-09-01 at 7 35 36 PM" src="https://github.com/user-attachments/assets/d9408165-d062-4f64-816b-3c3f7a1f72dc" />
 
 ## Possible solution
-<img width="954" height="628" alt="Screenshot 2026-09-01 at 7 35 36 PM" src="https://github.com/user-attachments/assets/d9408165-d062-4f64-816b-3c3f7a1f72dc" />
+
+<img width="985" height="577" alt="Screenshot 2026-09-01 at 7 35 47 PM" src="https://github.com/user-attachments/assets/a30a8fa1-ab00-490f-8d52-8ede737d99fa" />
 
 
 ## LangSmith Monitoring 
