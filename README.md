@@ -713,3 +713,12 @@ The current V1 focuses on **evidence-driven, read-only incident
 diagnosis** and provides a foundation for future capabilities such as
 agents, RAG, tool calling, metrics analysis, MCP, and automated
 remediation.
+
+<img width="703" height="515" alt="Screenshot 2026-09-01 at 4 31 31 PM" src="https://github.com/user-attachments/assets/8408a5aa-917b-4032-a462-2eaebd988466" />
+<img width="1494" height="735" alt="Screenshot 2026-09-01 at 4 31 00 PM" src="https://github.com/user-attachments/assets/235dae79-586c-453c-bcfa-82383fdcc52a" />
+
+## LangSmith Monitoring 
+End to end LLM operations are being monitored & logged using LangSmith
+
+<img width="1489" height="554" alt="Screenshot 2026-09-01 at 7 33 51 PM" src="https://github.com/user-attachments/assets/74c4006a-d93c-443e-b21f-c87b3075fe83" />
+
