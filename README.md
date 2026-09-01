@@ -1,4 +1,4 @@
-# ⚡ K8s AI Doctor
+# K8s AI Doctor
 
 AI-powered Kubernetes incident diagnosis using **IBM Cloud IKS,
 Kubernetes API, LangChain, OpenAI, LangSmith, and Streamlit**.
